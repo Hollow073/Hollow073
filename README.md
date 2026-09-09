@@ -1,8 +1,8 @@
-# Hi there! 👋
-
-Welcome to my GitHub profile!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=6000&pause=500&color=8297FF&vCenter=true&width=500&lines=There+is+nothing+here)](https://git.io/typing-svg)
 
 ![Visitors](https://count.getloli.com/@Ryszard?name=Ryszard&theme=moebooru)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <p align="center">
   <img
@@ -10,3 +10,4 @@ Welcome to my GitHub profile!
     alt="GitHub Contribution Snake"
   />
 </p>
+
