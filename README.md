@@ -2,8 +2,6 @@
 
 ![Visitors](https://count.getloli.com/@Ryszard?name=Ryszard&theme=moebooru)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 <p align="center">
   <img
     src="./dist/github-snake-dark.svg"
