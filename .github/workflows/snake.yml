@@ -14,15 +14,17 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?palette=github-dark
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake
+      - name: Commit Snake
         uses: EndBug/add-and-commit@v9
         with:
           message: "chore: update github contribution snake"
